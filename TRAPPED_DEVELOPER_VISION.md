@@ -1,0 +1,77 @@
+# Dimension Trap: Jumanji Reborn — Complete Developer Vision
+
+## Core Product Vision
+
+Dimension Trap: Jumanji Reborn, branded in the interface as TRAPPED, is a cinematic multiplayer survival-adventure experience built to feel like four real friends have been physically dragged into a blockbuster movie. The product must never feel like a cartoon, an arcade title, or a lightweight mobile game. Every surface across the website, launcher, mobile app, PC experience, lobby, gameplay flow, monetization screen, revive prompt, profile, leaderboard, and ending cinematic must communicate photorealistic dread, premium production value, and the emotional intensity of a Hollywood survival film. The emotional references are Jumanji for the trapped-inside-the-game premise, Stranger Things for the dimension-horror mystery, and The Last of Us for grounded realism, tension, and character emotion.
+
+## Entry Experience Across Website and App
+
+The very first touchpoint on both the website and the app must be the same dark cinematic login experience so the brand feels unified across platforms. The screen opens on a nearly full-screen photorealistic close-up of a terrified human face with wet hair, sweat, dirt, rain, and small blood splashes on the cheek, lit with moody blue-black lighting and subtle rim light like a survival thriller poster. The title DIMENSION TRAP : JUMANJI REBORN sits above the composition in glowing blood-red typography with a serious premium game-store feel. The main primary action is a large glowing green PLAY NOW button rather than a retail price. The secondary action is a Watch Trailer button that opens a Netflix-style ninety-second cinematic trailer with full voice acting, monster roars, scientist dialogue, environmental sound design, and quick glimpses of the ten dimensions. On the right side of the layout there is a vertical scenes gallery showing short looping clips or video-backed panels for each dimension, presented like premium streaming thumbnails rather than emoji cards or gamey tiles.
+
+The login and registration forms should feel like an extension of the film poster, not a standard SaaS form. Inputs are heavy, dark, glossy, and realistic, with subtle reflections, cinematic blur, and strong depth. The player should feel that they are not simply signing into an app but stepping into a portal. On mobile this same experience should collapse without losing the emotional impact, preserving the close-up face, the moody color palette, the premium typography, and the high-contrast PLAY NOW call to action.
+
+## Main Menu and Player Identity
+
+After authentication the player lands in a main menu that carries the same visual language: black and charcoal surfaces, cold blue highlights, blood-red status accents, green portal interactions, realistic shadows, and large cinematic artwork. The player profile should support either a real uploaded face or an AI-generated photorealistic avatar. The profile presentation must feel like a character dossier rather than a social profile card. Legend Badges should look like polished physical metal, engraved and reflective under animated light. The dashboard should show current lives, badge status, character assignment, team status, progression through the ten dimensions, and a live signal showing how many friends or players are online and available for either private room entry or global matchmaking.
+
+This main menu is not decorative. It should immediately direct the player into lobby formation, dimension selection, revive purchasing, badge review, leaderboard comparison, and trailer or story playback. The character portrait should carry emotional realism with visible skin texture, clothing detail, and dimension-linked styling so the player always feels represented by a believable person rather than an icon.
+
+## Team Structure and Match Flow
+
+Every run is built around exactly four players. Teams can be formed through a private code-based room or worldwide matchmaking. The room experience should feel premium and social, with cinematic idle animations, dramatic ambient lighting, and a sense that the four players are standing at the edge of a dangerous ritual. No player manually chooses a character. Instead, when four players are assembled, a Jumanji-style dice roll sequence begins. The dice must look physically real with actual material texture, weight, wood or carved relic detail, glowing runes, sparks, screen shake, and a final explosion of light that transitions directly into the portal entry cinematic. This moment is one of the signature brand beats and should be treated like a major marketing asset.
+
+Character assignment is random but balanced. Each assigned character has a unique power and one weakness, and the powers are designed to force cooperation between all four players. One character might reveal hidden routes, one might shield the team, one might heal under pressure, and one might track enemies or story clues. Weaknesses must matter so that the team composition feels tense and interdependent. The assigned character affects not just abilities but silhouette, clothes, movement style, voice actor, and cinematic framing.
+
+## Character Realism and Avatar Rules
+
+All player characters must look like real humans captured with modern film-grade digital production. Faces need pores, sweat, wetness, dirt, eyelashes, believable hair breakup, eye moisture, lip texture, and reactive expressions. Clothing must carry torn fabric, mud, blood stains, environmental wear, and permanent visual damage that evolves during a zone. If a player uploads a selfie, the system should adapt the character face so the in-game hero still fits the visual language of the assigned role while preserving recognizable features such as eyes, skin tone, bone structure, and hair direction. The result should feel like the player has become the movie character, not like a face filter has been pasted onto a model.
+
+Blood, sweat, tears, mud, frost, ocean pressure, and alien residue are not cosmetic afterthoughts. They are part of the emotional storytelling. Monster hits should create believable, physically placed wounds and wet blood splashes. Different dimensions change the material behavior of those effects. In ice zones blood can freeze into crystal-like residue. Underwater it becomes drifting red clouds. In the cyberpunk zone it reflects neon in rain puddles. The player should carry the visual memory of survival across the entire run.
+
+## Zone Order and Progression Rules
+
+The ten dimensions are presented as ten chapters of a single survival film. The player cannot skip freely between them on first completion. The experience must enforce progression in order, because the story, tension, collectibles, and team choices depend on the chapter sequence. The first dimension is Haunted Horror Mansion and it becomes the first playable live chapter immediately after onboarding. The next dimension unlocks only after the previous one is completed. Already completed zones can remain replayable, but new chapters must open in sequence so the portal journey feels intentional and escalating.
+
+Each zone runs for roughly thirty to forty-five minutes and ends with a cinematic boss encounter. The zones are Haunted Horror Mansion, Zombie Apocalypse City, Dinosaur Jungle, Alien Planet, Frozen Ice World, Underwater Ocean World, Dark Dimension, Ancient Temple, Future Cyberpunk City, and the Final Boss Dimension where the escape back to real life is decided.
+
+## Zone Atmosphere and Gore Direction
+
+Every dimension must feel like a different full-length movie with its own environmental language, enemy behavior, lighting setup, blood behavior, material response, and sound identity. Haunted Horror Mansion is wet wood, old wallpaper, flashlight dust, floorboard creaks, bloody fingerprints, and apparition contact. Zombie Apocalypse City is collapsing streets, broken glass, wet asphalt, spray arcs of blood, flesh deformation, and desperate urban survival. Dinosaur Jungle is rain, mud, leaf movement, heavy footstep impact, predator sound direction, bone-crack death cinematics, and high-energy physical violence. Alien Planet is glowing biology, sizzling alien blood, reactive terrain burn marks, and impossible colors grounded by photorealistic rendering. Frozen Ice World is breath condensation, cracking ice sheets, frost accumulation, and blood hardening on snow. Underwater Ocean World is pressure distortion, floating debris, oxygen panic, and blood blooming through water. Dark Dimension is corrupted lighting, spores, red lightning, biological horror, and reality distortion. Ancient Temple is stone dust, ancient dried blood, curse effects, sand movement, and mythic dread. Future Cyberpunk City is wet neon, holographic interference, chrome reflections, and fresh blood on illuminated asphalt. The Final Boss Dimension is a hostile fusion of all previous realities where the main villain visually evolves according to the player’s journey and revive history.
+
+The violence direction should remain grounded and filmic rather than exaggerated or comedic. Wounds, splashes, blood pooling, cloth staining, death reactions, and enemy damage need to feel weighty and emotionally charged. The goal is not gore for shock alone but realism that reinforces the survival stakes and the blockbuster tone.
+
+## Lives, Failure, and Ghost Mode
+
+Every player starts each zone with exactly three lives. If the team completes the zone together, those lives reset to three at the start of the next chapter. If a player loses all three lives in a zone, that player becomes Trapped Forever for the remainder of that chapter. The screen shifts into a black-and-white cinematic ghost mode with liquid blood framing the edges of the image. The eliminated player remains present in the match as a spectator who can whisper hints, communicate over voice, and emotionally haunt the experience, but cannot physically rejoin active play without a revive mechanic. This state needs to feel tragic, atmospheric, and memorable, not like a standard spectator camera.
+
+The players who still retain at least one life at the end of a zone receive Survivor Choice authority. Their characters should speak their selected choice out loud in a professionally acted line before the next zone begins. This can determine entry route, power-up path, hidden clue access, or another narrative branch. Players who died do not participate in that vote, which adds social tension, guilt, and urgency to every revive decision.
+
+## Narrative Structure and Voice Acting
+
+The entire campaign is wrapped around a mystery involving Dr. Elias Kane, a forbidden portal, a broken artifact, or a failed experiment depending on the selected backstory path. At the start of the broader campaign the team chooses among three cinematic backstory variants that determine the framing of the mystery while still converging into the same high-value final reveal. Each zone contains a story collectible delivered through voiced audio logs, holograms, whispers, or campfire revelations. The hub scenes between zones must feel like real film dialogue scenes with camera movement, lighting changes, and performance beats.
+
+Voice acting is essential, not optional polish. There should be dedicated performers for the scientist, the villain, the narrator, the whispering artifact or dimensional force, and each assigned player character. Characters need reactive lines for panic, puzzle success, revive moments, entering a zone, seeing a boss, using a power, being left behind, and surviving impossible events. The mix must allow proximity voice chat from real friends while also preserving clarity for authored performances.
+
+## Hub, Campfire, and Between-Zone Emotion
+
+After every completed zone the surviving team returns to a hub space framed as a campfire or temporary refuge outside reality. This hub is not a menu in disguise. It is a cinematic pause where the camera can circle the team, firelight can flicker across faces, dialogue can reveal fear and suspicion, and the player can inspect badges, wounds, and collectibles before stepping into the next chapter. Previous zone damage should still be visible on clothing and skin so that the campaign feels continuous and embodied.
+
+## Legend Badges and Shareable Reward Systems
+
+Legend Badges must function as both status items and gameplay modifiers. They should be earned through meaningful survival feats such as clearing a zone without revives, discovering a secret clue chain, preserving all four teammates, or defeating a boss under extreme conditions. Visually these badges should look premium and collectible, with metal surfaces, etched symbols, and reflective highlights. Mechanically they can unlock persistent modifiers such as speed increases, cooldown reductions, emergency revive perks, or other long-tail advantages.
+
+At the end of each zone the system should auto-generate a shareable movie poster featuring the four team members in photorealistic composition, their current scars, sweat, dirt, blood, and glowing badges, along with the team name and the zone they survived. The poster should feel like premium key art worthy of social sharing rather than an automated screenshot collage.
+
+## Monetization Experience
+
+Monetization must feel integrated into the survival fantasy and never resemble a cheap overlay. Core revive offers include one extra life for ₹149, three extra lives for ₹399, and a Team Rescue Pack for ₹799 that revives and boosts the squad. When a player is trapped, the revive moment should show a close-up of the exhausted, bloodied face with a voiced plea such as asking not to be left behind. The purchase UI should preserve the same dark premium aesthetic as the rest of the product, with clean typography, cinematic lighting, and emotional framing. Cosmetics, weapon finishes, voice packs, season pass entitlements, and VIP membership can sit around this core system as additional revenue streams.
+
+## Cross-Platform and Technical Direction
+
+The target gameplay stack is Unreal Engine 5 with photoreal rendering, dynamic weather, day-night systems, real-time cinematic lighting, believable cloth and ragdoll behavior, reactive blood and material systems, and high-quality facial presentation. The live-service and social platform layer can be delivered with scalable cloud infrastructure for accounts, matchmaking, purchases, leaderboards, party state, and cross-play across mobile, PC storefronts, and future console targets. Voice chat requires proximity logic, panic ping handling, mixing rules that avoid stepping on authored voice lines, and moderation tools including mute and reporting.
+
+The companion website should mirror the same visual language as the game and launcher. It is a premium cinematic game portal, not a generic marketing site. It needs the same terrifying hero face, the same dark premium motion, the same scene gallery, the same login and registration quality, the same character realism, and the same narrative seriousness as the game itself.
+
+## Final Creative Standard
+
+The final standard for TRAPPED is simple: every screen, every sound, every wound, every rain drop, every monster reveal, every revive prompt, every profile portrait, every cinematic transition, and every decision point must convince the player that they and their three friends are not browsing a game but living inside a Hollywood survival movie that can go wrong at any second.
